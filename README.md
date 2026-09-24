@@ -4,7 +4,7 @@ Wanderlust is a Full-Stack Travel and Property Listing Web Application inspired 
 
 This project demonstrates the practical implementation of Full-Stack Web Development concepts, including frontend development, backend development, database management, RESTful routing, authentication, authorization, middleware, MVC architecture, CRUD operations, image uploads, cloud storage, validation, error handling, and session management.
 
-🚀 Live Demo: Wanderlust – Live Demo
+🚀 Live Demo: https://wanderlust-major-project-py7f.onrender.com/listings
 
 ✨ Explore Listings: The live demo directly opens the /listings page.
 ---
