@@ -1,12 +1,12 @@
 # 🌍 Wanderlust — Full-Stack Travel Listing Platform
 
-Wanderlust is a **Full-Stack Travel and Property Listing Web Application** inspired by modern travel platforms. It allows users to explore destinations, 
-create and manage property listings, upload images, authenticate securely, and share reviews and ratings.
+Wanderlust is a Full-Stack Travel and Property Listing Web Application inspired by modern travel platforms. It allows users to explore destinations, create and manage property listings, upload images, authenticate securely, and share reviews and ratings.
 
-This project demonstrates the practical implementation of **Full-Stack Web Development concepts**, including frontend development, backend development, database management, RESTful routing, 
-authentication, authorization, middleware, MVC architecture, CRUD operations, 
-image uploads, cloud storage, validation, error handling, and session management.
+This project demonstrates the practical implementation of Full-Stack Web Development concepts, including frontend development, backend development, database management, RESTful routing, authentication, authorization, middleware, MVC architecture, CRUD operations, image uploads, cloud storage, validation, error handling, and session management.
 
+🚀 Live Demo: Wanderlust – Live Demo
+
+✨ Explore Listings: The live demo directly opens the /listings page.
 ---
 
 ## 🚀 Project Overview
