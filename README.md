@@ -7,6 +7,8 @@ This project demonstrates the practical implementation of Full-Stack Web Develop
 🚀 Live Demo: https://wanderlust-major-project-py7f.onrender.com/listings
 
 ✨ Explore Listings: The live demo directly opens the /listings page.
+
+🔐 User Authentication: You can sign up with your name, email, and password, then securely log in to access the application's features.
 ---
 
 ## 🚀 Project Overview
